@@ -1,0 +1,11 @@
+maxsales
+bdmaxsales
+c16_root
+maxsales2020
+
+BAR3
+BAR3
+BAR3
+EPSON TM-T20 Receipt
+Cmd;Con;Fac;Liq
+##Cmd;Con;Fac;Liq;Cui

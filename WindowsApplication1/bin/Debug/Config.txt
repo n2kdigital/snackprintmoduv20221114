@@ -1,0 +1,20 @@
+n2ksales
+n2kbd
+c16_root
+n2k2022
+
+BAR1
+BAR2
+BAR3
+EPSON TM-T20II Receipt
+Cmd;Con;Fac;Liq
+OPIOM BONAMOUSSADI
+SNACK-BAR-RESTAURANT
+RC : RC/DLA/2018/B/2781
+NIU : M081812716227E
+
+
+
+
+
+##Cmd,Fac,Liq,Cui,Con,Chi,Elt,App,Ach

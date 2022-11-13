@@ -1,0 +1,8 @@
+D:\nembot02\Projet_En_Cour\DotNet_Projet\printmodule\WindowsApplication1\obj\Release\printmodule.vbproj.AssemblyReference.cache
+D:\nembot02\Projet_En_Cour\DotNet_Projet\printmodule\WindowsApplication1\obj\Release\printmodule.Form1.resources
+D:\nembot02\Projet_En_Cour\DotNet_Projet\printmodule\WindowsApplication1\obj\Release\printmodule.Resources.resources
+D:\nembot02\Projet_En_Cour\DotNet_Projet\printmodule\WindowsApplication1\obj\Release\printmodule.vbproj.GenerateResource.cache
+D:\nembot02\Projet_En_Cour\DotNet_Projet\printmodule\WindowsApplication1\obj\Release\printmodule.vbproj.CoreCompileInputs.cache
+D:\nembot02\Projet_En_Cour\DotNet_Projet\printmodule\WindowsApplication1\obj\Release\PrintModule.exe
+D:\nembot02\Projet_En_Cour\DotNet_Projet\printmodule\WindowsApplication1\obj\Release\PrintModule.xml
+D:\nembot02\Projet_En_Cour\DotNet_Projet\printmodule\WindowsApplication1\obj\Release\PrintModule.pdb
